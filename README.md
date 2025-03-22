@@ -2,6 +2,7 @@
 Material to help learn Arduino programming using the Arduino Uno R4 Wifi dev board. 
 I am upcasing the name of the board for a test: UNO R4 WIFI.
 Doug McG was here!
+Update March 22, 7:27 PM
 
 ## Lesson 1: Hello World
 Goal: 
